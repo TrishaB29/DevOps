@@ -1,0 +1,12 @@
+https://github.com/TrishaB29/Devops_tb.git
+
+
+git remote add origin https://github.com/TrishaB29/Devops_tb.git
+
+
+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
+
+
+CCC1-F880
+
+ec84c1d5bfa14783930b8afcfa590c96
